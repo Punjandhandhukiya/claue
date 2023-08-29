@@ -1,0 +1,49 @@
+@media screen and (max-width:767px) {
+    
+/* .pricee{
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%) translateY(-50%);
+} */
+.hide{
+    display: block;
+}
+}
+@media screen and (max-width:991px) {
+    .shop_now{
+        /* display: none; */
+        padding: 0px 20px;
+        height: 30px;
+        line-height: 30px;
+        font-size: 12px;
+    }
+    
+}
+@media screen and (max-width:767px) {
+    
+
+.grid-item{
+    height: 300px;
+    /* margin-bottom: 20px; */
+}
+
+.poster_con h2{
+    font-size: 20px;
+}
+
+.shop_now{
+    height: 30px;
+    line-height: 30px;
+}
+.poster_con p,
+.poster_con span{
+    display: none;
+}
+.main_post{
+    height: 250px;
+}
+
+
+
+
+}
